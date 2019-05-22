@@ -1,0 +1,3 @@
+Using a pointer, with new but no delete, ensures that the object will never be destroyed, so there is no danger of accessing it after its lifetime has ended. Combined with the "lazy" creation, the first time that it's accessed, this guarantees that all accesses are to a valid object. The disadvantages are that creation is not thread-safe, and that the object and any resources it acquires are not released at the end of the program.
+
+Using a local static object, creation is thread-safe on any compiler that supports the C++11 threading model; also, the object will be destroyed at the end of the program. However, it is possible to access the object after its destruction (e.g. from the destructor of another static object), which could lead to nasty bugs.
