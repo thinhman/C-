@@ -1,0 +1,18 @@
+The postfix form of [ ( -5 + 7 ) * ( 6 - 2 ) ] is: -5 7 + 6 2 - *
+The postfix form of [ ( - 5 + 7 ) * ( 6 - 2 ) ] is: -5 7 + 6 2 - *
+Expression is not purely numerical, cannot compute its value. 
+The postfix form of  is:
+Expression is not purely numerical, cannot compute its value. 
+The postfix form of  is:
+Expression is not purely numerical, cannot compute its value. 
+The postfix form of [  (  -  5  +  7  )  *  (  6  -   2  )  ] is: -5 7 + 6 2 - *
+The postfix form of [  (  3  +  4  )  /  (  9  -  10  )  ] is: 3 4 + 9 10 - /
+Computed value of the post fix expression is: -7.00
+The postfix form of [  (  -  5  +  7  )  *  (  6  -  2  )  ] is: -5 7 + 6 2 - *
+Computed value of the post fix expression is: 8.00
+The postfix form of [  (  3  +  4  )  /  (  9  -  10  )  ] is: 3 4 + 9 10 - /
+Computed value of the post fix expression is: -7.00
+The postfix form of [  (  3  +  4  )  /  (  9  -  10  )  ] is: 3 4 + 9 10 - /
+Computed value of the post fix expression is: -7.00
+The postfix form of (  3  +  4  ) is: 3 4 +
+Computed value of the post fix expression is: 7.00
