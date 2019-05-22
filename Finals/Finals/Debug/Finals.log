@@ -1,0 +1,6 @@
+﻿  regex.cpp
+  ex3.cpp
+c:\users\thinhman\desktop\finals\finals\ex3.cpp(55): warning C4101: 'e': unreferenced local variable
+  Generating Code...
+  Finals.vcxproj -> C:\Users\Thinhman\Desktop\Finals\Debug\Finals.exe
+  Finals.vcxproj -> C:\Users\Thinhman\Desktop\Finals\Debug\Finals.pdb (Partial PDB)
