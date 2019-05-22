@@ -1,0 +1,23 @@
+  When you install the sample applications, an attempt is made to create a
+ user account ("adcdemo") within SQL Server. If this account already exists,
+ the installation will succeed; however, when you run the sample application
+ you may receive a "login failed" message. You can edit the sample files to
+ set the username and password to a working account.
+ Using FoxPro Databases
+If you access Visual FoxPro data, you must use the latest Visual FoxPro ODBC driver (version 5.0.0.402 or later), which is available from http://www.microsoft.com/vfoxpro/vfdownload. If you don't use the latest driver, you may not be able to execute queries correctly.
+
+ "System error: out of virtual memory" Error
+If you receive the error, "System error: out of virtual memory" from the Web Server, requiring a reboot, the following may address the error. Your Web server machine might be out of virtual memory, or the SQL data source server might require more TempDB space to handle the size of the query you are attempting to run. Virtual memory can be adjusted from Control Panel. (Click the System icon, select the Performance tab, and click the Virtual Memory button to see if there is extra hard disk space available.) More information on how to adjust the TempDB space can be found in the the "Performance" Help topic's subtopic, "Ensuring Sufficient TempDB Space."
+
+The following is a list of Remote Data Service 1.1 known problems.
+
+ Version 1.0.0.806 of the Visual Basic Script DLL (vbscript.dll) contains a memory leak. An updated version of the DLL (2.0.0.1114 or later) resolves the issue. It is available with Internet Information Server 3.0 and can be downloaded from http://www.microsoft.com/vbscript.
+
+ When you use RDS with the Visual Basic 5.0 list box or combo box control in Internet Explorer version 4.0, you should set the ListField property for the list box or combo box control at design time in the control's <OBJECT> tags. Otherwise, if you set the ListField property at run time in VBScript code, the data won't be populated in the controls. Therefore, you should use HTML code like the following:
+instead of VBScript code like:
+
+	
+
+ If you make changes to data on your RDS page and then go to another page without canceling or submitting the changes, when you return to your RDS page, you might get an "Unexpected Error" message. Calling the RDS.DataControl object's Refresh method when you return to the page will resolve this problem.
+
+ When loading the sample pages for the first time on some machines with Microsoft Internet Explorer version 3.02, an object may not load or you may receive an "Unexpected Error (0x80020009)" message. If this happens, click the "Refresh" button to correct the problem.

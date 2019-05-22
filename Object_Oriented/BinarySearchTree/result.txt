@@ -1,0 +1,377 @@
+able 7  
+ 
+access 7  
+ 
+account 2  2  5  
+ 
+adcdemo 2  
+ 
+address 10  
+ 
+adjust 10  
+ 
+adjusted 10  
+ 
+already 2  
+ 
+an 1  14  21  23  23  
+ 
+and 5  10  14  21  
+ 
+another 21  
+ 
+application 3  
+ 
+applications 1  
+ 
+are 10  
+ 
+at 16  16  
+ 
+attempt 1  
+ 
+attempting 10  
+ 
+available 7  10  14  
+ 
+basic 14  16  
+ 
+be 7  10  10  10  14  16  
+ 
+box 16  16  16  16  
+ 
+button 10  23  
+ 
+calling 21  
+ 
+can 4  10  10  14  
+ 
+canceling 21  
+ 
+changes 21  21  
+ 
+click 10  10  23  
+ 
+code 16  16  17  
+ 
+com 7  14  
+ 
+combo 16  16  
+ 
+contains 14  
+ 
+control 10  16  16  
+ 
+control's 16  
+ 
+controls 16  
+ 
+correct 23  
+ 
+correctly 7  
+ 
+create 1  
+ 
+data 7  10  12  16  21  
+ 
+databases 6  
+ 
+datacontrol 21  
+ 
+design 16  
+ 
+disk 10  
+ 
+dll 14  14  14  
+ 
+don't 7  
+ 
+downloaded 14  
+ 
+driver 7  7  
+ 
+edit 4  
+ 
+ensuring 10  
+ 
+error 9  9  10  10  10  21  23  
+ 
+execute 7  
+ 
+exists 2  
+ 
+explorer 16  23  
+ 
+extra 10  
+ 
+failed 4  
+ 
+files 4  
+ 
+first 23  
+ 
+following 10  12  16  
+ 
+for 16  23  
+ 
+found 10  
+ 
+foxpro 6  7  7  
+ 
+from 7  10  10  14  
+ 
+get 21  
+ 
+go 21  
+ 
+handle 10  
+ 
+happens 23  
+ 
+hard 10  
+ 
+help 10  
+ 
+how 10  
+ 
+however 3  
+ 
+html 16  
+ 
+http 7  14  
+ 
+icon 10  
+ 
+if 2  7  7  10  10  16  21  23  
+ 
+in 10  16  16  16  16  
+ 
+information 10  14  
+ 
+install 1  
+ 
+installation 3  
+ 
+instead 17  
+ 
+internet 14  16  23  
+ 
+is 1  7  10  12  14  
+ 
+issue 14  
+ 
+it 14  
+ 
+known 12  
+ 
+later 7  14  
+ 
+latest 7  7  
+ 
+leak 14  
+ 
+like 16  17  
+ 
+list 12  16  16  
+ 
+listfield 16  16  
+ 
+load 23  
+ 
+loading 23  
+ 
+login 4  
+ 
+machine 10  
+ 
+machines 23  
+ 
+made 1  
+ 
+make 21  
+ 
+may 4  7  10  23  23  
+ 
+memory 9  10  10  10  10  14  
+ 
+message 4  21  23  
+ 
+method 21  
+ 
+microsoft 7  14  23  
+ 
+might 10  10  21  
+ 
+more 10  10  
+ 
+must 7  
+ 
+not 7  23  
+ 
+object 16  23  
+ 
+object's 21  
+ 
+odbc 7  
+ 
+of 9  10  10  10  12  14  14  17  
+ 
+on 10  21  23  
+ 
+or 7  10  14  16  16  21  23  
+ 
+otherwise 16  
+ 
+out 9  10  10  
+ 
+page 21  21  21  21  
+ 
+pages 23  
+ 
+panel 10  
+ 
+password 5  
+ 
+performance 10  10  
+ 
+populated 16  
+ 
+problem 21  23  
+ 
+problems 12  
+ 
+property 16  16  
+ 
+queries 7  
+ 
+query 10  
+ 
+rds 16  21  21  21  
+ 
+reboot 10  
+ 
+receive 4  10  23  
+ 
+refresh 21  23  
+ 
+remote 12  
+ 
+require 10  
+ 
+requiring 10  
+ 
+resolve 21  
+ 
+resolves 14  
+ 
+return 21  21  
+ 
+run 3  10  16  
+ 
+sample 1  3  4  23  
+ 
+script 14  
+ 
+see 10  
+ 
+select 10  
+ 
+server 2  10  10  10  14  
+ 
+service 12  
+ 
+set 5  16  16  
+ 
+should 16  16  
+ 
+size 10  
+ 
+some 23  
+ 
+source 10  
+ 
+space 10  10  10  10  
+ 
+sql 2  10  
+ 
+submitting 21  
+ 
+subtopic 10  
+ 
+succeed 3  
+ 
+sufficient 10  
+ 
+system 9  10  10  
+ 
+tab 10  
+ 
+tags 16  
+ 
+tempdb 10  10  10  
+ 
+the 1  3  3  4  5  7  7  10  10  10  10  10  10  10  10  10  10  10  10  10  12  14  14  14  16  16  16  16  16  16  16  16  21  21  21  23  23  23  23  
+ 
+then 21  
+ 
+there 10  
+ 
+therefore 16  
+ 
+this 2  21  23  
+ 
+time 16  16  23  
+ 
+to 1  4  5  7  10  10  10  10  21  21  21  21  23  
+ 
+topic's 10  
+ 
+unexpected 21  23  
+ 
+updated 14  
+ 
+use 7  7  16  16  
+ 
+user 2  
+ 
+username 5  
+ 
+using 6  
+ 
+vbscript 14  14  16  17  
+ 
+version 7  14  14  16  23  
+ 
+vfdownload 7  
+ 
+vfoxpro 7  
+ 
+virtual 9  10  10  10  10  
+ 
+visual 7  7  14  16  
+ 
+web 10  10  
+ 
+when 1  3  16  21  21  23  
+ 
+which 7  
+ 
+will 3  21  
+ 
+with 14  16  23  
+ 
+within 2  
+ 
+without 21  
+ 
+won't 16  
+ 
+working 5  
+ 
+www 7  14  
+ 
+you 1  3  4  4  7  7  7  7  10  10  16  16  16  16  21  21  21  21  23  
+ 
+your 10  21  21  
+ 
+
